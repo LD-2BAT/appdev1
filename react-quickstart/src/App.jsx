@@ -4,19 +4,10 @@ function App() {
 
   return (
     <>
-     <AboutPage/>
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3kD_sgl3KvVpoNrxp3QlyeM6AJCmMuypJA&s" className="avatar" />
     </>
   )
 } 
-
-function AboutPage() {
-  return (
-    <>
-      <h1>About</h1>
-      <p>Hello there.<br />How do you do?</p>
-    </>
-  );
-}
 
 
 
