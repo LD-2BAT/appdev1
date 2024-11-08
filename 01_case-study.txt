@@ -1,0 +1,28 @@
+As a manager:
+
+In the case of a personal crisis of a key team member derailing project deadline, dealing with the situation while displaying empathy and smart modification.
+
+Recognize the developer's situation and provide prompt aid;
+Communicate with the client by respecting his privacy as well as presenting new expectations;
+Re-evaluation and shift of impacted assignments within a team, identify tasks available for assignment, speed up knowledge transfer.
+Make the critical pathway operate by tight deadlines, and in case possible, manage flexible working hours for the affected developer.
+Think of temporary solutions like engaging short-term contractors. Maintain close contact and monitor the progress, lend a hand, and create a team environment in which problems can freely be acknowledged.
+
+As a Developer:
+
+As soon as a family crisis arises, the developer needs to inform his management immediately and disclose the status of ongoing assignments.
+
+Identifying tasks to be transferred to the other team members and learned on an immediate need basis.
+Arranging flexible work hours to balance personal and professional commitments.
+Using project management tools to keep on track and ensuring easy handovers if needed
+Allowing the help of the team in dealing with the workload in this critical time period.
+
+What Could Have Been Done Better?:
+
+Managers and developers should have procedures to mitigate the risk in order to better anticipate possible problems through cross-training of team members and contingency planning.
+
+All project tasks, procedures, and codes should be well-documented for easy turnover.
+Regular check-ins can help in solving problems early on.
+Developing a flexible approach in managing resources allows for swift adjustments in the light of unanticipated events.
+
+
